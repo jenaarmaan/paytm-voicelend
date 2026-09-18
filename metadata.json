@@ -1,0 +1,6 @@
+{
+  "name": "Paytm VoiceLend",
+  "description": "Ecosystem-grade Model Context Protocol (MCP) server & agentic voice-native micro-lending platform for India's 60M micro-merchants (Kiranas).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
